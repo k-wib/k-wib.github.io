@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BS (Honours) in Applied Mathematics and Statistics, National University of Singapore, 2019
+	* GPA: 4.90/5.00
+	* Best graduate in Applied Mathematics
+	* Completed the [Special Programme in Mathematics](https://www.math.nus.edu.sg/ug/spm/)
+* MS in Data Science, Columbia University, 2020
+	* GPA: 4.00/4.00
+* PhD in Statistics, University of Michigan, 2026 (expected)
+	* Current GPA: 4.00/4.00
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Data Analyst 2 (Junior Data Scientist)**, [Walmart](https://www.walmart.com/), Feb 2021 - Jun 2021
+	* Implemented stacking model in Spark and engineered relevant features for Sam's Club fraud engine, resulting in > 30% prevented loss
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Data Science Intern**, [Walmart](https://www.walmart.com/), Jun 2020 - Aug 2020
+	* Utilized NLP techniques in PySpark to develop item scorecards to guide individual stores' price investment decisions
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Data Science Intern**, [Portcast](https://portcast.io/), May 2018 - Aug 2018
+	* Improved existing cargo demand forecasting models using ML methods in Python, resulting in 15% MAPE improvement
+
+* **Research Intern**, [Centre for Social Development Asia](https://fass.nus.edu.sg/swk/csda-overview/), May 2017 - Aug 2017
+	* Worked with a multidisciplinary team to publish reports on the state of charity governance in Singapore
+
+* **Marketing Data Analyst Intern**, [Traveloka](https://www.traveloka.com/en-id/), May 2016 - Jul 2016
+	* Developed dashboard to summarize the effectiveness of organic searches in hotel sales using SQL
+
   
-Talks
+Awards and Honors
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Top 1.5% in [Baidu and Xi'an Jiaotong University International Big Data Competition](https://aistudio.baidu.com/aistudio/competition/detail/91/0/introduction), 2020
+
+* 3rd Prize in Columbia University Data Science Hackathon, 2019
+
+* [Ho Family Prize](https://www.nus.edu.sg/registrar/academic-information-policies/education-at-nus/medals-and-prizes-(university-level)/rules-of-award---h) for the best student in Applied Mathematics at NUS, 2019
+
+* Top 250 in [William Lowell Putnam Mathematical Competition](https://www.maa.org/math-competitions/putnam-competition), 2017
+
+* 8th Place in [Virginia Tech Regional Mathematics Contest](https://personal.math.vt.edu/plinnell/Vtregional/), 2017
+
+* Singapore Ministry of Foreign Affairs' Undergraduate Scholarship, 2015
+
+* Silver Medal in [Asian Pacific Mathematics Olympiad](https://www.apmo-official.org/), 2013 and 2014
+
+* Bronze Medal in [International Mathematical Olympiad](https://www.imo-official.org/), 2013
+
+* Satyalancana Wira Karya Presidential Award
