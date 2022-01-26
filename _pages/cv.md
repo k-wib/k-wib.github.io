@@ -20,7 +20,7 @@ Education
 * PhD in Statistics, University of Michigan, 2026 (expected)
 	* Current GPA: 4.00/4.00
 
-Work experience
+Work Experience
 ======
 * **Data Analyst 2 (Junior Data Scientist)**, [Walmart](https://www.walmart.com/), Feb 2021 - Jun 2021
 	* Implemented stacking model in Spark and engineered relevant features for Sam's Club fraud engine, resulting in > 30% prevented loss
