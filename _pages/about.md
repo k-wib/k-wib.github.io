@@ -18,9 +18,9 @@ Projects
 
 * [Approximate Solutions to the Multivariate Behrens-Fisher Problem](http://k-wib.github.io/files/2_thesis.pdf)
 
-* [Improving Automatic Event Understanding through Sequential and Non-Sequential Deep Learning Architectures](http://k-wib.github.io/files/BBCU_Final_Report.pdf)
+* [Improving Automatic Event Understanding Through Sequential and Non-sequential Deep Learning Architectures](http://k-wib.github.io/files/BBCU_Final_Report.pdf)
 
-* A Twitter Natural Language Processing Analysis of how New Yorkers Responded to the COVID-19 Pandemic
+* A Twitter Natural Language Processing Analysis of How New Yorkers Responded to the COVID-19 Pandemic
 
 Teaching Experience
 ------
@@ -29,19 +29,19 @@ Teaching Experience
 
 Work Experience
 ------
-* Data Analyst 2 (Junior Data Scientist), [Walmart](https://www.walmart.com/), Feb 2021 - Jun 2021
+* **Data Analyst 2 (Junior Data Scientist)**, [Walmart](https://www.walmart.com/), Feb 2021 - Jun 2021
 	* Implemented stacking model in Spark and engineered relevant features for Sam's Club fraud engine, resulting in > 30% prevented loss
 
-* Data Science Intern, [Walmart](https://www.walmart.com/), Jun 2020 - Aug 2020
+* **Data Science Intern**, [Walmart](https://www.walmart.com/), Jun 2020 - Aug 2020
 	* Utilized NLP techniques in PySpark to develop item scorecards to guide individual stores' price investment decisions
 
-* Data Science Intern, [Portcast](https://portcast.io/), May 2018 - Aug 2018
+* **Data Science Intern**, [Portcast](https://portcast.io/), May 2018 - Aug 2018
 	* Improved existing cargo demand forecasting models using ML methods in Python, resulting in 15% MAPE improvement
 
-* Research Intern, [Centre for Social Development Asia](https://fass.nus.edu.sg/swk/csda-overview/), May 2017 - Aug 2017
+* **Research Intern**, [Centre for Social Development Asia](https://fass.nus.edu.sg/swk/csda-overview/), May 2017 - Aug 2017
 	* Worked with a multidisciplinary team to publish reports on the state of charity governance in Singapore
 
-* Marketing Data Analyst Intern, [Traveloka](https://www.traveloka.com/en-id/), May 2016 - Jul 2016
+* **Marketing Data Analyst Intern**, [Traveloka](https://www.traveloka.com/en-id/), May 2016 - Jul 2016
 	* Developed dashboard to summarize the effectiveness of organic searches in hotel sales using SQL
 
 Awards and Honors
