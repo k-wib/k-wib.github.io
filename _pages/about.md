@@ -12,6 +12,20 @@ I am a first year PhD student in Statistics at the University of Michigan, Ann A
 
 I am very passionate about teaching, and I always strive to get better at communicating difficult concepts to my students. Besides teaching, I enjoy watching badminton matches, listening to Korean indie music, and admiring different countries' electricity poles and bollards in Geoguessr.
 
+Projects
+------
+* [Dynamic Dirichlet-Multinomial Mixture Models for Analyzing the Time Evolution of Topics in Short Texts](http://k-wib.github.io/files/DDMM_for_Short_Texts.pdf)
+
+* [Approximate Solutions to the Multivariate Behrens-Fisher Problem](http://k-wib.github.io/files/2_thesis.pdf)
+
+* [Improving Automatic Event Understanding through Sequential and Non-Sequential Deep Learning Architectures](http://k-wib.github.io/files/BBCU_Final_Report.pdf)
+
+* A Twitter Natural Language Processing Analysis of how New Yorkers Responded to the COVID-19 Pandemic
+
+Teaching Experience
+------
+
+
 
 Work Experience
 ------
