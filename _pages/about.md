@@ -24,6 +24,8 @@ Projects
 
 Teaching Experience
 ------
+* **STATS 415: Data Mining and Statistical Learning** (Winter 2022, U of M)
+	* Design and teach weekly lab classes for ~40 students, grade homework, and conduct office hours
 
 * **STATS 250: Introduction to Statistics and Data Analysis** (Fall 2021, U of M)
 	* Taught weekly lab classes for ~35 students, graded homework and lab, and conducted office hours
@@ -37,7 +39,7 @@ Teaching Experience
 		* "Kevin was a great GSI, he explained all the concepts clearly, and answered any questions that people had. He guided our class through the labs, and made the lab reports easy to complete"
 
 * **INAF U6614: Data Analysis for Policy Research Using R** (Fall 2020, Columbia)
-	* Designed and taught weekly lab classes for ~20 students, assisted the instructor in developing the curriculum, provided individualized feedback on projects, graded homework, and conducted office hours
+	* Designed and taught weekly lab classes for ~20 students, developed course website, assisted the instructor in developing the curriculum, provided individualized feedback on projects, graded homework, and conducted office hours
 
 * **CSOR W4231: Analysis of Algorithms** (Spring 2020, Columbia)
 	* Graded homework and exams for ~120 students, and conducted office hours
