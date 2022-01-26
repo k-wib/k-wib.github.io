@@ -12,15 +12,6 @@ I am a first year PhD student in Statistics at the University of Michigan, Ann A
 
 I am very passionate about teaching, and I always strive to get better at communicating difficult concepts to my students. Besides teaching, I enjoy watching badminton matches, listening to Korean indie music, and admiring different countries' electricity poles and bollards in Geoguessr.
 
-Projects
-------
-* [Dynamic Dirichlet-Multinomial Mixture Models for Analyzing the Time Evolution of Topics in Short Texts](http://k-wib.github.io/files/DDMM_for_Short_Texts.pdf)
-
-* [Approximate Solutions to the Multivariate Behrens-Fisher Problem](http://k-wib.github.io/files/2_thesis.pdf)
-
-* [Improving Automatic Event Understanding Through Sequential and Non-sequential Deep Learning Architectures](http://k-wib.github.io/files/BBCU_Final_Report.pdf)
-
-* A Twitter Natural Language Processing Analysis of How New Yorkers Responded to the COVID-19 Pandemic
 
 Teaching Experience
 ------
@@ -53,7 +44,6 @@ Teaching Experience
 	* Selected student comments: 
 		* "One of the best and most dedicated teachers I have met in my education so far"
 		* "One of the rare tutors who genuinely cared for students"
-	
 
 
 Work Experience
@@ -72,6 +62,7 @@ Work Experience
 
 * **Marketing Data Analyst Intern**, [Traveloka](https://www.traveloka.com/en-id/), May 2016 - Jul 2016
 	* Developed dashboard to summarize the effectiveness of organic searches in hotel sales using SQL
+
 
 Awards and Honors
 ------
