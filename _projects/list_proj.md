@@ -1,4 +1,9 @@
-------
+---
+title: "Projects"
+collection: projects
+permalink: /projects
+---
+
 * [Dynamic Dirichlet-Multinomial Mixture Models for Analyzing the Time Evolution of Topics in Short Texts](http://k-wib.github.io/files/DDMM_for_Short_Texts.pdf)
 
 * [Approximate Solutions to the Multivariate Behrens-Fisher Problem](http://k-wib.github.io/files/2_thesis.pdf)
