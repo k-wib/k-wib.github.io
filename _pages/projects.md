@@ -5,12 +5,10 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+* [Dynamic Dirichlet-Multinomial Mixture Models for Analyzing the Time Evolution of Topics in Short Texts](http://k-wib.github.io/files/DDMM_for_Short_Texts.pdf)
 
-{% include base_path %}
+* [Approximate Solutions to the Multivariate Behrens-Fisher Problem](http://k-wib.github.io/files/2_thesis.pdf)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* [Improving Automatic Event Understanding Through Sequential and Non-sequential Deep Learning Architectures](http://k-wib.github.io/files/BBCU_Final_Report.pdf)
+
+* A Twitter Natural Language Processing Analysis of How New Yorkers Responded to the COVID-19 Pandemic
