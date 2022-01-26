@@ -11,4 +11,6 @@ author_profile: true
 
 * [Improving Automatic Event Understanding Through Sequential and Non-sequential Deep Learning Architectures](http://k-wib.github.io/files/BBCU_Final_Report.pdf)
 
+* [Analysis of Indonesian Tweets During COVID-19 Pandemic](https://github.com/fransiscasusan/covid19-indonesian-tweets-analysis/blob/master/coronavirus-tweets-indonesia-analysis.ipynb)
+
 * A Twitter Natural Language Processing Analysis of How New Yorkers Responded to the COVID-19 Pandemic
