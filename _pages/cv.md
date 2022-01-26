@@ -61,12 +61,12 @@ Awards and Honors
 
 Leadership Experience
 ======
-* Project Director, PERMIAS Michigan, Aug 2021 - present
+* **Project Director**, PERMIAS Michigan, Aug 2021 - present
 
-* Student Ambassador and Mentor, Columbia Data Science Institute, Jan 2020 - Dec 2020
+* **Student Ambassador and Mentor**, Columbia Data Science Institute, Jan 2020 - Dec 2020
 
-* Assistant Vice President of Training and Development, Columbia Indonesian Society, Aug 2019 - Jul 2020
+* **Assistant Vice President of Training and Development**, Columbia Indonesian Society, Aug 2019 - Jul 2020
 
-* President, NUS Angklung Ensemble, Aug 2016 - Jul 2017
+* **President**, NUS Angklung Ensemble, Aug 2016 - Jul 2017
 
-* Treasurer, NUS-British Petroleum Mentoring, Aug 2016 - Jul 2017
+* **Treasurer**, NUS-British Petroleum Mentoring, Aug 2016 - Jul 2017
