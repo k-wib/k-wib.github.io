@@ -17,7 +17,7 @@ Under Review
 
 In Preparation
 ======
-* **Wibisono, K. C.**, Mukherjee, D., Banerjee, M., and Ritov, Y. Estimation of Non-randomized Heterogeneous Treatment Effects in the Presence of Unobserved Confounding Variables.
+* **Wibisono, K. C.**, Mukherjee, D., Banerjee, M., and Ritov, Y. Estimation of Non-Randomized Heterogeneous Treatment Effects in the Presence of Unobserved Confounding Variables.
 
 Books
 =====

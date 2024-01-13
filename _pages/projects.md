@@ -7,7 +7,7 @@ author_profile: true
 
 * [Approximate Solutions to the Multivariate Behrens-Fisher Problem](http://k-wib.github.io/files/2_thesis.pdf) (undergraduate thesis)
 
-* [Improving Automatic Event Understanding Through Sequential and Non-sequential Deep Learning Architectures](http://k-wib.github.io/files/BBCU_Final_Report.pdf) (master's capstone project)
+* [Improving Automatic Event Understanding Through Sequential and Non-Sequential Deep Learning Architectures](http://k-wib.github.io/files/BBCU_Final_Report.pdf) (master's capstone project)
 
 * [Dynamic Dirichlet-Multinomial Mixture Models for Analyzing the Time Evolution of Topics in Short Texts](http://k-wib.github.io/files/DDMM_for_Short_Texts.pdf)
 
