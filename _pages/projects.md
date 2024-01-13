@@ -27,7 +27,7 @@ Books
 
 * **Wibisono, K. C.**, Winata, K., Tantrawan, M., Gozali, F. S., Woenardi, J. M., Surya, E. W., and Herwana, A. S. (2016). Kontes Terbuka Olimpiade Matematika: Buku 1. Surabaya: Graha Ilmu Mulia.
 
-Others
+Projects
 ======
 * [Approximate Solutions to the Multivariate Behrens-Fisher Problem](http://k-wib.github.io/files/2_thesis.pdf) (undergraduate thesis)
 
