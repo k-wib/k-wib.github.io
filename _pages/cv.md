@@ -17,7 +17,7 @@ Education
 	* Current GPA: 4.00/4.00
 	* Received the [Rackham International Student Fellowship](https://rackham.umich.edu/funding/	rackham-international-student-fellowships/) for demonstrating exceptional academic and 		professional promise.
 
-* MS in Data Science, **Columbia University*, 2020
+* MS in Data Science, **Columbia University**, 2020
 	* GPA: 4.00/4.00
 
 * BS (Honours) in Applied Mathematics and Statistics, **National University of Singapore**, 2019
