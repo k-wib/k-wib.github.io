@@ -13,3 +13,5 @@ I am a first year PhD student in Statistics at the University of Michigan, Ann A
 
 I am very passionate about teaching, and I always strive to get better at communicating difficult concepts to my students. Besides teaching, I enjoy watching badminton matches, listening to Korean indie music, and admiring different countries' electricity poles and bollards in Geoguessr.
 
+
+My CV can be found [here](http://k-wib.github.io/files/cv_wibisono_jan_24.pdf).

@@ -9,17 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+[Here](http://k-wib.github.io/files/cv_wibisono_jan_24.pdf) is a full version of my CV.
+
 Education
 ======
+* PhD in Statistics, University of Michigan, 2026 (expected)
+	* Current GPA: 4.00/4.00
+	* Received the [Rackham International Student Fellowship](https://rackham.umich.edu/funding/	rackham-international-student-fellowships/) for demonstrating exceptional academic and 		professional promise.
+
+* MS in Data Science, Columbia University, 2020
+	* GPA: 4.00/4.00
+
 * BS (Honours) in Applied Mathematics and Statistics, National University of Singapore, 2019
 	* GPA: 4.90/5.00
 	* Received the [Ho Family Prize](https://www.nus.edu.sg/registrar/academic-information-		policies/education-at-nus/medals-and-prizes-(university-level)/rules-of-award---h) as the 	best student in Applied Mathematics.
 	* Completed the [Special Programme in Mathematics](https://www.math.nus.edu.sg/ug/spm/), a 	program specially designed for students with a strong passion and aptitude for mathematics.
-* MS in Data Science, Columbia University, 2020
-	* GPA: 4.00/4.00
-* PhD in Statistics, University of Michigan, 2026 (expected)
-	* Current GPA: 4.00/4.00
-	* Received the [Rackham International Student Fellowship](https://rackham.umich.edu/funding/	rackham-international-student-fellowships/) for demonstrating exceptional academic and 		professional promise.
 
 Work Experience
 ======
