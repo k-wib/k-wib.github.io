@@ -37,4 +37,4 @@ National University of Singapore
 
 * **MA1100: Fundamental Concepts of Mathematics** (AY 2018/19 Sem I)
 	* Designed and taught weekly tutorial classes (~60 students), held office hours, and graded exams.
-	* Nominated for teaching award by > 30% of students
+	* Nominated for teaching award by > 30% of students.
