@@ -9,7 +9,7 @@ Accepted
 ======
 * **Wibisono, K. C.** and Wang, Y. (2023). [On the Role of Unstructured Training Data in Transformers' In-Context Learning Capabilities](http://k-wib.github.io/files/icl_paper.pdf). _NeurIPS Workshop on Mathematics of Modern Machine Learning_.
 
-* **Wibisono, K. C.** and Wang, Y. (2023). [Bidirectional Attention as a Mixture of Continuous Word Experts](http://k-wib.github.io/files/attn_paper.pdf). _Uncertainty in Artifical Intelligence_ (acceptance rate: 31%).
+* **Wibisono, K. C.** and Wang, Y. (2023). [Bidirectional Attention as a Mixture of Continuous Word Experts](http://k-wib.github.io/files/attn_paper.pdf). _Uncertainty in Artificial Intelligence_ (acceptance rate: 31%).
 
 Under Review
 ======

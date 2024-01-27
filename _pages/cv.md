@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Here](http://k-wib.github.io/files/cv_wibisono_jan_24.pdf) is a full version of my CV.
+Here are my [CV](http://k-wib.github.io/files/cv_wibisono_jan_24.pdf) and [resume](http://k-wib.github.io/files/resume_wibisono_jan_24.pdf).
 
 Education
 ======
@@ -51,7 +51,7 @@ Awards and Honors
 
 * 3rd Prize in Columbia University Data Science Hackathon, 2019
 
-* [Ho Family Prize](https://www.nus.edu.sg/registrar/academic-information-policies/education-at-nus/medals-and-prizes-(university-level)/rules-of-award---h) for the best student in Applied Mathematics at NUS, 2019
+* [Ho Family Prize](https://www.nus.edu.sg/registrar/academic-information-policies/education-at-nus/medals-and-prizes-(university-level)/rules-of-award---h) for being the best graduate in Applied Mathematics, 2019
 
 * Top 250 in [William Lowell Putnam Mathematical Competition](https://www.maa.org/math-competitions/putnam-competition), 2017
 
