@@ -7,13 +7,11 @@ author_profile: true
 
 Accepted
 ======
+* Ignaccolo, C., **Wibisono, K. C.**, Plunz, R., and Sutto, M. Tweeting During the Pandemic in New York City: Unveiling the Evolving NYC’s Sentiment Landscape Through a Spatiotemporal Analysis of Geolocated Tweets. _Journal of Urban Technology_.
+
 * **Wibisono, K. C.** and Wang, Y. (2023). [On the Role of Unstructured Training Data in Transformers' In-Context Learning Capabilities](http://k-wib.github.io/files/icl_paper.pdf). _NeurIPS Workshop on Mathematics of Modern Machine Learning_.
 
 * **Wibisono, K. C.** and Wang, Y. (2023). [Bidirectional Attention as a Mixture of Continuous Word Experts](http://k-wib.github.io/files/attn_paper.pdf). _Uncertainty in Artificial Intelligence_ (acceptance rate: 31%).
-
-Under Review
-======
-* Ignaccolo, C., **Wibisono, K. C.**, Plunz, R., and Sutto, M. Tweeting During the Pandemic in New York City: Unveiling the Evolving NYC’s Sentiment Landscape Through a Spatiotemporal Analysis of Geolocated Tweets.
 
 In Preparation
 ======
