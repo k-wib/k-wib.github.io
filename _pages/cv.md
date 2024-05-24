@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here are my [CV](http://k-wib.github.io/files/cv_wibisono_mar_24.pdf) and [resume](http://k-wib.github.io/files/resume_wibisono_mar_24.pdf).
+Here are my [CV](http://k-wib.github.io/files/cv_wibisono_may_24.pdf) and [resume](http://k-wib.github.io/files/resume_wibisono_may_24.pdf).
 
 Education
 ======
@@ -27,6 +27,9 @@ Education
 
 Work Experience
 ======
+* **PhD Software Engineer Intern**, [Uber](https://www.uber.com/), May 2024 - Aug 2024
+	* Mobility pricing team.
+
 * **Data Analyst 2 (Junior Data Scientist)**, [Walmart](https://www.walmart.com/), Feb 2021 - Jun 2021
 	* Enhanced Sam’s Club fraud detection system via model stacking and improved feature engineering, resulting in a reduction of approximately 30% in financial losses.
 
@@ -68,6 +71,10 @@ Awards and Honors
 
 Presentations and Posters
 ======
+* **Michigan Student Symposium for Interdisciplinary Statistical Sciences**, Ann Arbor, MI, USA, 2024.
+
+* **Midwest Speech and Language Days**, Ann Arbor, MI, USA, 2024.
+
 * **NeurIPS Workshop on Mathematics of Modern Maching Learning**, New Orleans, LA, USA, 2023.
 
 * **Joint Statistical Meetings**, Toronto, ON, Canada, 2023.
@@ -82,6 +89,8 @@ Presentations and Posters
 
 Service
 ======
+* **Reviewer**, Neural Information Processing Systems, 2024.
+
 * **Reviewer**, Artificial Intelligence and Statistics (AISTATS), 2023 - 2024.
 
 * **Volunteer**, Neural Information Processing Systems (NeurIPS), 2023.
