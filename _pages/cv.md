@@ -89,7 +89,7 @@ Presentations and Posters
 
 Service
 ======
-* **Reviewer**, Neural Information Processing Systems, 2024.
+* **Reviewer**, Neural Information Processing Systems (NeurIPS), 2024.
 
 * **Reviewer**, Artificial Intelligence and Statistics (AISTATS), 2023 - 2024.
 
