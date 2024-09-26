@@ -7,7 +7,9 @@ author_profile: true
 
 Accepted
 ======
-* Ignaccolo, C., **Wibisono, K. C.**, Plunz, R., and Sutto, M. Tweeting During the Pandemic in New York City: Unveiling the Evolving NYC’s Sentiment Landscape Through a Spatiotemporal Analysis of Geolocated Tweets. _Journal of Urban Technology_.
+* **Wibisono, K. C.** and Wang, Y. (2023). In-Context Learning from Training on Unstructured Data: The Role of Co-Occurrence, Positional Information, and Training Data Structure. _Neural Information Processing Systems_ (acceptance rate: 26%).
+
+* Ignaccolo, C., **Wibisono, K. C.**, Plunz, R., and Sutto, M. (2024). Tweeting During the Pandemic in New York City: Unveiling the Evolving NYC’s Sentiment Landscape Through a Spatiotemporal Analysis of Geolocated Tweets. _Journal of Urban Technology_.
 
 * **Wibisono, K. C.** and Wang, Y. (2023). [On the Role of Unstructured Training Data in Transformers' In-Context Learning Capabilities](http://k-wib.github.io/files/icl_paper.pdf). _NeurIPS Workshop on Mathematics of Modern Machine Learning_.
 
@@ -16,6 +18,10 @@ Accepted
 In Preparation
 ======
 * **Wibisono, K. C.**, Mukherjee, D., Banerjee, M., and Ritov, Y. Estimation of Non-Randomized Heterogeneous Treatment Effects in the Presence of Unobserved Confounding Variables.
+
+* **Wibisono, K. C.** and Wang, Y. Causal Inference with Textual Treatments or Outcomes via Maximizing Contrasts.
+
+* **Wibisono, K. C.** and Wang, Y. Sequential Data Modeling via Exponential Family Embeddings with Attention.
 
 Books
 =====
