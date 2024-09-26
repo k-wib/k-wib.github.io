@@ -7,8 +7,9 @@ author_profile: true
 
 University of Michigan
 ======
-* **Undergraduate Research Program in Statistics (URPS)** (Winter 2024)
-	* Supervise two undergraduate students in a research project on investigating language models’ abilities to encode geographical information.
+* **Undergraduate Research Program in Statistics (URPS)** (Winter and Fall 2024)
+	* Supervised three undergraduate students in a research project exploring large language models' geographical knowledge.
+	* Currently leading a follow-up project on the same topic.
 
 * **STATS 306: Introduction to Statistical Computing** (Fall 2023)
 	* Designed and taught weekly lab sections (~40 students), held office hours, prepared and graded homework, and graded exams.

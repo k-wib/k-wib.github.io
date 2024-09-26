@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here are my [CV](http://k-wib.github.io/files/cv_wibisono_sep_24.pdf) and [resume](http://k-wib.github.io/files/resume_wibisono_sep_24.pdf).
+Here are my full [CV](http://k-wib.github.io/files/cv_wibisono_sep_24.pdf) and [resume](http://k-wib.github.io/files/resume_wibisono_sep_24.pdf).
 
 Education
 ======
@@ -28,23 +28,26 @@ Education
 Work Experience
 ======
 * **PhD Software Engineer Intern**, [Uber](https://www.uber.com/), May 2024 - Aug 2024
-	* Mobility pricing team.
+	* Applied causal inference techniques to analyze the paycheck effect and its impact on demand and price elasticity.
+	* Enhanced Uber’s demand model by adding paycheck features, improving predictive performance and business metrics.
+	* Implemented and refined large language model-based data augmentation methods, achieving notable improvements in test AUC and accuracy based on experiments conducted on Uber’s demand data.
 
 * **Data Analyst 2 (Junior Data Scientist)**, [Walmart](https://www.walmart.com/), Feb 2021 - Jun 2021
-	* Enhanced Sam’s Club fraud detection system via model stacking and improved feature engineering, resulting in a reduction of approximately 30% in financial losses.
+	* Improved fraud detection system via model stacking and feature engineering, reducing financial losses by around 30%.
 
 * **Data Science Intern**, [Walmart](https://www.walmart.com/), Jun 2020 - Aug 2020
-	* Adapted natural language processing techniques to develop item-scoring algorithms aimed at 	guiding each club’s price investment decisions, and implemented them using PySpark.
+	* Developed item-scoring algorithms to inform strategic price investment decisions for each Sam’s Club.
+	* Adapted and implemented natural language processing algorithms to improve item elasticity predictions.
 
 * **Data Science Intern**, [Portcast](https://portcast.io/), May 2018 - Aug 2018
-	* Developed methods for improving cargo demand forecasting models for several prominent 	global shipping companies, and implemented them using Python.
+	* Devised methods to improve existing cargo demand forecasting models of leading shipping companies.
+	* Enhanced forecasting accuracy via market signal experimentation, reducing mean absolute percentage errors by 5 to 15%.
 
 * **Research Intern**, [Centre for Social Development Asia](https://fass.nus.edu.sg/swk/csda-overview/), May 2017 - Aug 2017
 	* Collaborated with a multidisciplinary team of undergraduate students to analyze the state 	of charity governance in Singapore, resulting in the publication _An Overview of Charity 	Governance in Singapore_.
 
 * **Marketing Data Analyst Intern**, [Traveloka](https://www.traveloka.com/en-id/), May 2016 - Jul 2016
-	* Developed SQL dashboards to summarize the effectiveness of organic searches in generating 	hotel sales.
-
+	*  Developed dashboards to summarize the effectiveness of organic searches in generating hotel sales.
   
 Awards and Honors
 ======
@@ -71,6 +74,8 @@ Awards and Honors
 
 Presentations and Posters
 ======
+* **Joint Statistical Meetings**, Portland, OR, USA, 2024.
+
 * **Michigan Student Symposium for Interdisciplinary Statistical Sciences**, Ann Arbor, MI, USA, 2024.
 
 * **Midwest Speech and Language Days**, Ann Arbor, MI, USA, 2024.
@@ -89,7 +94,13 @@ Presentations and Posters
 
 Service
 ======
+* **Reviewer**, Cities, 2024.
+
 * **Reviewer**, Neural Information Processing Systems (NeurIPS), 2024.
+
+* **Reviewer**, ICML Workshop on In-Context Learning, 2024.
+
+* **Reviewer**, ICML Workshop on Theoretical Foundations of Foundation Models, 2024.
 
 * **Reviewer**, Artificial Intelligence and Statistics (AISTATS), 2023 - 2024.
 
