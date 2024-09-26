@@ -27,15 +27,15 @@ Education
 
 Work Experience
 ======
-* **PhD Software Engineer Intern**, [Uber](https://www.uber.com/), May 2024 - Aug 2024
+* **PhD Software Engineer Intern (Rider Structural Pricing)**, [Uber](https://www.uber.com/), May 2024 - Aug 2024
 	* Applied causal inference techniques to analyze the paycheck effect and its impact on demand and price elasticity.
 	* Enhanced Uber’s demand model by adding paycheck features, improving predictive performance and business metrics.
 	* Implemented and refined large language model-based data augmentation methods, achieving notable improvements in test AUC and accuracy based on experiments conducted on Uber’s demand data.
 
-* **Data Analyst 2 (Junior Data Scientist)**, [Walmart](https://www.walmart.com/), Feb 2021 - Jun 2021
+* **Junior Data Scientist (Fraud)**, [Walmart](https://www.walmart.com/), Feb 2021 - Jun 2021
 	* Improved fraud detection system via model stacking and feature engineering, reducing financial losses by around 30%.
 
-* **Data Science Intern**, [Walmart](https://www.walmart.com/), Jun 2020 - Aug 2020
+* **Data Science Intern (Pricing)**, [Walmart](https://www.walmart.com/), Jun 2020 - Aug 2020
 	* Developed item-scoring algorithms to inform strategic price investment decisions for each Sam’s Club.
 	* Adapted and implemented natural language processing algorithms to improve item elasticity predictions.
 
@@ -94,19 +94,16 @@ Presentations and Posters
 
 Service
 ======
-* **Reviewer**, Cities, 2024.
+* **Reviewer**
+	* Cities, 2024.
+	* Neural Information Processing Systems (NeurIPS), 2024.
+	* ICML Workshop on In-Context Learning, 2024.
+	* ICML Workshop on Theoretical Foundations of Foundation Models, 2024.
+	* Artificial Intelligence and Statistics (AISTATS), 2023 - 2024.
 
-* **Reviewer**, Neural Information Processing Systems (NeurIPS), 2024.
-
-* **Reviewer**, ICML Workshop on In-Context Learning, 2024.
-
-* **Reviewer**, ICML Workshop on Theoretical Foundations of Foundation Models, 2024.
-
-* **Reviewer**, Artificial Intelligence and Statistics (AISTATS), 2023 - 2024.
-
-* **Volunteer**, Neural Information Processing Systems (NeurIPS), 2023.
-
-* **Volunteer**, ICSA Applied Statistics Symposium, 2023.
+* **Volunteer**
+	* Neural Information Processing Systems (NeurIPS), 2023.
+	* ICSA Applied Statistics Symposium, 2023.
 
 
 Leadership Experience
