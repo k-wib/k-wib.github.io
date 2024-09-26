@@ -46,7 +46,7 @@ Work Experience
 * **Research Intern**, [Centre for Social Development Asia](https://fass.nus.edu.sg/swk/csda-overview/), May 2017 - Aug 2017
 	* Collaborated with a multidisciplinary team of undergraduate students to analyze the state 	of charity governance in Singapore, resulting in the publication _An Overview of Charity 	Governance in Singapore_.
 
-* **Marketing Data Analyst Intern**, [Traveloka](https://www.traveloka.com/en-id/), May 2016 - Jul 2016
+* **Data Analyst Intern**, [Traveloka](https://www.traveloka.com/en-id/), May 2016 - Jul 2016
 	*  Developed dashboards to summarize the effectiveness of organic searches in generating hotel sales.
   
 Awards and Honors
