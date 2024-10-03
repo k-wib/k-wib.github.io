@@ -7,7 +7,7 @@ author_profile: true
 
 Accepted
 ======
-* **Wibisono, K. C.** and Wang, Y. (2023). In-Context Learning from Training on Unstructured Data: The Role of Co-Occurrence, Positional Information, and Training Data Structure. _Neural Information Processing Systems_ (acceptance rate: 26%).
+* **Wibisono, K. C.** and Wang, Y. (2024). In-Context Learning from Training on Unstructured Data: The Role of Co-Occurrence, Positional Information, and Training Data Structure. _Neural Information Processing Systems_ (acceptance rate: 26%).
 
 * Ignaccolo, C., **Wibisono, K. C.**, Plunz, R., and Sutto, M. (2024). Tweeting During the Pandemic in New York City: Unveiling the Evolving NYC’s Sentiment Landscape Through a Spatiotemporal Analysis of Geolocated Tweets. _Journal of Urban Technology_.
 
