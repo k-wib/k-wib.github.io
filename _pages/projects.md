@@ -9,6 +9,8 @@ author_profile: true
 
 * [Improving Automatic Event Understanding Through Sequential and Non-Sequential Deep Learning Architectures](http://k-wib.github.io/files/BBCU_Final_Report.pdf) (master's capstone project)
 
+* [Cheating in Online Chess Games: A Causal Perspective](http://k-wib.github.io/files/cheating_in_chess.pdf)
+
 * [Dynamic Dirichlet-Multinomial Mixture Models for Analyzing the Time Evolution of Topics in Short Texts](http://k-wib.github.io/files/DDMM_for_Short_Texts.pdf)
 
 * [Analysis of Indonesian Tweets During COVID-19 Pandemic](https://github.com/fransiscasusan/covid19-indonesian-tweets-analysis/blob/master/coronavirus-tweets-indonesia-analysis.ipynb)
