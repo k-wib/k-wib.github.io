@@ -17,4 +17,4 @@ I graduated from National University of Singapore (2019) with a BS (Honours) in 
 
 I am very passionate about teaching, and I always strive to get better at communicating difficult concepts to my students. Besides teaching, my interests include watching badminton matches, playing the piano and guitar, indulging in bossa nova and Korean indie music, and exploring the world through the game of Geoguessr.
 
-Here are my [CV](http://k-wib.github.io/files/cv_wibisono_sep_24.pdf) and [resume](http://k-wib.github.io/files/resume_wibisono_sep_24.pdf).
+Here are my [CV](http://k-wib.github.io/files/cv_wibisono_nov_24.pdf) and [resume](http://k-wib.github.io/files/resume_wibisono_nov_24.pdf).
