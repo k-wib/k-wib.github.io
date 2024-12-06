@@ -9,13 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Here are my full [CV](http://k-wib.github.io/files/cv_wibisono_nov_24.pdf) and [resume](http://k-wib.github.io/files/resume_wibisono_nov_24.pdf).
+Here are my full [CV](http://k-wib.github.io/files/cv_wibisono_dec_24.pdf) and [resume](http://k-wib.github.io/files/resume_wibisono_dec_24.pdf).
 
 Education
 ======
 * PhD in Statistics, **University of Michigan**, 2026 (expected)
 	* Current GPA: 4.00/4.00
 	* Received the [Rackham International Student Fellowship](https://rackham.umich.edu/funding/	rackham-international-student-fellowships/) for demonstrating exceptional academic and 		professional promise.
+	* Received one of the International Biometric Society [Eastern North American Region’s Distinguished Student Paper Awards](https://www.enar.org/meetings/StudentPaperAwards/).
 
 * MS in Data Science, **Columbia University**, 2020
 	* GPA: 4.00/4.00
@@ -51,6 +52,8 @@ Work Experience
   
 Awards and Honors
 ======
+* International Biometric Society [Eastern North American Region’s Distinguished Student Paper Awards](https://www.enar.org/meetings/StudentPaperAwards/), 2024.
+
 * [Rackham International Student Fellowship](https://rackham.umich.edu/funding/	rackham-international-student-fellowships/), 2023
 
 * Top 1.5% in [Baidu and Xi'an Jiaotong University International Big Data Competition](https://aistudio.baidu.com/aistudio/competition/detail/91/0/introduction), 2020
@@ -74,6 +77,8 @@ Awards and Honors
 
 Presentations and Posters
 ======
+* **Neural Information Processing Systems (NeurIPS)**, Vancouver, BC, Canada, 2024.
+
 * **Joint Statistical Meetings**, Portland, OR, USA, 2024.
 
 * **Michigan Student Symposium for Interdisciplinary Statistical Sciences**, Ann Arbor, MI, USA, 2024.
