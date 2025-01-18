@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here are my full [CV](http://k-wib.github.io/files/cv_wibisono_janu_25.pdf) and [resume](http://k-wib.github.io/files/resume_wibisono_jan_25.pdf).
+Here are my full [CV](http://k-wib.github.io/files/cv_wibisono_jan_25.pdf) and [resume](http://k-wib.github.io/files/resume_wibisono_jan_25.pdf).
 
 Education
 ======
